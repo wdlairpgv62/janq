@@ -509,7 +509,7 @@ var initIndex = function () {
 			str+='				                  <a href="https://share.weiyun.com/55FuKS9" rel="nofollow"  target="_blank" class="btn btn-rose btn-round">Windows版本</a>';
 			str+='				                </div>';
 			str+='				                <div class="git-demo center" style="margin-left:10px;">';
-			str+='				                  <a href="https://share.weiyun.com/5MDi0cv" rel="nofollow" target="_blank" class="btn btn-rose btn-round">Android版本</a>';
+			str+='				                  <a href="https://cdn.jsdelivr.net/gh/wdlairpgv62/janq/ana/assets/version/BetAnalysis.apk" rel="nofollow" target="_blank" class="btn btn-rose btn-round">Android版本</a>';
 			str+='				                </div>';
 			str+='				                <div class="git-demo float-right" style="margin-left:10px;">';
 			str+='				                  <a href="https://couli.cn/app.php/NDk3Nw==" rel="nofollow"  target="_blank" class="btn btn-rose btn-round">IOS版本</a>';
